@@ -15,7 +15,7 @@ I am a **Software Engineer Trainee** at Akitra and a recent **Computer Science g
 ### ⭐ Key Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CodeBugger_Rank-AIR_16-blue?style=for-the-badge&logo=Coding Ninjas&logoColor=white" alt="CodeBugger Rank"/>
+<!--   <img src="https://img.shields.io/badge/CodeBugger_Rank-AIR_16-blue?style=for-the-badge&logo=Coding Ninjas&logoColor=white" alt="CodeBugger Rank"/> -->
   <img src="https://img.shields.io/badge/DSA_Problems_Solved-1000+-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="1000+ DSA Questions Solved"/>
   <img src="https://img.shields.io/badge/Organized_Workshops-500+_Students-green?style=for-the-badge&logo=Google-for-Education&logoColor=white" alt="Organized Workshops for 500+ Students"/>
 </p>
