@@ -48,30 +48,21 @@ I am a **Software Engineer Trainee** at Akitra and a recent **Computer Science g
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-ruwali-8b5439222/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://personal-portfolio-six-drab-33.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-343434?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://leetcode.com/u/anuragruwali484/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
   </a>
-  <a href="#" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/anuragruamqv/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
 </p>
 
----
 
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag484&show_icons=true&theme=tokyonight" alt="anurag484's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag484&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
 
 ### 🚀 My Pinned Projects
 
